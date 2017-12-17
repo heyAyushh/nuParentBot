@@ -36,3 +36,4 @@ var basicQnAMakerDialog = new cognitiveservices.QnAMakerDialog({
 });
 
 bot.dialog('/', basicQnAMakerDialog);
+require('joke')();
