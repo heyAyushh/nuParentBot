@@ -1,0 +1,7 @@
+{
+  "name": "nuParentBot",
+  "description": " A bot to handle new parents queries",
+  "repository": "https://github.com/heyAyushh/nuParentBot",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
